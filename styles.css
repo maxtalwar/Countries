@@ -1,0 +1,29 @@
+.food {
+    position: absolute;
+    top: 270px;
+    left: 65%; /* if this is not right enough 70% could work better */
+}
+
+.destinations {
+    position: absolute;
+    top: 807px;
+    left: 11%;
+}
+
+.activities {
+    position: absolute;
+    top: 1327px;
+    left: 70%;
+}
+
+.fun-facts {
+    position: absolute;
+    top: 1744px;
+    left: 11%;
+}
+
+.demographics {
+    position: absolute;
+    top: 2121px;
+    left: 70%;
+}

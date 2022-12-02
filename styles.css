@@ -1,29 +1,180 @@
-.food {
+/* Page Body */
+.body-content {
+    font-family: Comfortaa;
+}
+
+.title {
+    font-size: 40px;
+}
+
+.medium-content {
+    font-size: 30px;
+}
+
+.small-content {
+    font-size: 20px;
+}
+
+/* General Styles */
+.image {
+    width: 11%;
+}
+
+/* Food */
+.food-title {
     position: absolute;
     top: 270px;
-    left: 65%; /* if this is not right enough 70% could work better */
+    left: 65%;
 }
 
-.destinations {
+.food-image-one {
     position: absolute;
-    top: 807px;
-    left: 11%;
+    /* top: 125px;*/
+    top: 11%;
+    left: 9.6%;
 }
 
-.activities {
+.food-image-two {
     position: absolute;
-    top: 1327px;
+    /*top: 357px;*/
+    top: 40%;
+    left: 9.6%;
+}
+
+.food-text-one {
+    position: absolute;
+    top: 12%;
+    left: 27%;
+    width: 30%;
+}
+
+.food-text-two {
+    position: absolute;
+    top: 42%;
+    left: 27%;
+    width: 30%;
+}
+
+/* Destinations */
+.destinations-title {
+    position: absolute;
+    top: 90%;
+    left: 10.9%;
+    width: 24.5%;
+}
+
+.destinations-image-one {
+    position: absolute;
+    top: 75%;
+    left: 73%;
+}
+
+.destinations-image-two {
+    position: absolute;
+    top: 100%;
+    left: 73%;
+}
+
+.destinations-text-one {
+    position: absolute;
+    top: 77%;
+    left: 41%;
+    width: 30%;
+}
+
+.destinations-text-two {
+    position: absolute;
+    top: 105%;
+    left: 41%;
+    width: 30%;
+}
+
+/* Activities */
+.activities-title {
+    position: absolute;
+    top: 155%;
     left: 70%;
 }
 
-.fun-facts {
+.activities-image-one {
     position: absolute;
-    top: 1744px;
+    top: 145%;
+    left: 8.5%;
+}
+
+.activities-image-two {
+    position: absolute;
+    top: 173%;
+    left: 8.5%;
+}
+
+.activities-text-one {
+    position: absolute;
+    top: 150%;
+    left: 28%;
+    width: 34%;
+}
+
+.activities-text-two {
+    position: absolute;
+    top: 178%;
+    left: 28%;
+    width: 36%;
+    padding-bottom: 200px;
+}
+
+/* Fun Facts */
+.fun-facts-title {
+    position: absolute;
+    top: 205%;
     left: 11%;
 }
 
-.demographics {
+.fun-facts-text-one {
     position: absolute;
-    top: 2121px;
+    top: 200%;
+    left: 41%;
+    width: 52%;
+}
+
+/* Demographics */
+.demographics-title {
+    position: absolute;
+    top: 245%;
     left: 70%;
+}
+
+.demographics-text-one {
+    position: absolute;
+    top: 245%;
+    left: 8.2%;
+    width: 51.1%;
+}
+
+/* Map */
+.map-title {
+    position: absolute;
+    top: 288%;
+    left: 15%;
+}
+
+.map-image {
+    position: absolute;
+    top: 280%;
+    left: 50%;
+    width: 30%;
+    padding-bottom: 100px;
+}
+
+/* Navbar */
+.navbar-countries {
+    font-size: 20px;
+}
+
+.navbar-homepage {
+    font-size: 40px;
+}
+
+.navbar {
+    height: 64px;
 }

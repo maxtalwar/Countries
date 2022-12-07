@@ -1,0 +1,228 @@
+body {
+    background-color: #e3fce4;
+}
+
+.text-1 {
+    position: absolute;
+    background-color: #d2b48c;
+    width: 300px;
+    height: 200px;
+    top: 700px;
+    left: 175px;
+    display: none;
+    border: 2px solid black;
+}
+
+.text-2 {
+    position: absolute;
+    background-color: #d2b48c;
+    width: 300px;
+    height: 210px;
+    top: 200px;
+    left: 280px;
+    display: none;
+    border: 2px solid black;
+}
+
+.text-3 {
+    position: absolute;
+    background-color: #d2b48c;
+    width: 300px;
+    height: 210px;
+    top: 500px;
+    right: 175px;
+    display: none;
+    border: 2px solid black;
+}
+
+.text-4 {
+    position: absolute;
+    background-color: #d2b48c;
+    width: 300px;
+    height: 200px;
+    top: 750px;
+    left: 420px;
+    display: none;
+    border: 2px solid black;
+}
+
+.text-5 {
+    position: absolute;
+    background-color: #d2b48c;
+    width: 300px;
+    height: 200px;
+    top: 1000px;
+    right: 270px;
+    display: none;
+    border: 2px solid black;
+}
+
+.text-6 {
+    position: absolute;
+    background-color: #d2b48c;
+    width: 300px;
+    height: 210px;
+    top: 750px;
+    right: 110px;
+    display: none;
+    border: 2px solid black;
+}
+
+.text-7 {
+    position: absolute;
+    background-color: #d2b48c;
+    width: 300px;
+    height: 210px;
+    top: 1025px;
+    left: 250px;
+    display: none;
+    border: 2px solid black;
+}
+
+.text-8 {
+    position: absolute;
+    background-color: #d2b48c;
+    width: 300px;
+    height: 210px;
+    top: 1125px;
+    right: 360px;
+    display: none;
+    border: 2px solid black;
+}
+
+.text-9 {
+    position: absolute;
+    background-color: #d2b48c;
+    width: 300px;
+    height: 210px;
+    top: 1275px;
+    right: 450px;
+    display: none;
+    border: 2px solid black;
+}
+
+.text-10 {
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    top: 1250px;
+    left: 150px;
+}
+
+.text-11 {
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    top: 1300px;
+    left: 90px;
+}
+
+.text-12 {
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    top: 1000px;
+    right: 150px;
+}
+
+.img-1 {
+    position: absolute;
+    top: 1100px;
+    right: 50px;
+    text-align: center;
+}
+
+.img-2 {
+    position: absolute;
+    top: 115px;
+    left: 25px;
+    text-align: center;
+}
+
+.img-3 {
+    position: absolute;
+    top: 115px;
+    left: 250px;
+    text-align: center;
+}
+
+.img-4 {
+    position: absolute;
+    top: 255px;
+    right: 250px;
+    text-align: center;
+}
+
+.img-5 {
+    position: absolute;
+    top: 115px;
+    right: 250px;
+    text-align: center;
+}
+
+.img-6 {
+    position: absolute;
+    top: 115px;
+    right: 25px;
+    text-align: center;
+}
+
+.head-1 {
+    color: #A020F0;
+}
+
+.head-2 {
+    color: rgb(0, 115, 255);
+}
+
+.head-3 {
+    color: 	#006994;
+}
+
+.head-4 {
+    color: 	#dfff00;
+}
+
+.head-5 {
+    color: 	#fa8e00;
+}
+
+.head-6 {
+    color: 	#169b07;
+}
+
+.head-7 {
+    color: 	#FF0000;
+}
+
+.head-8 {
+    color: 	#FF5349;
+}
+
+.head-9 {
+    color: 	#ff869a;
+}
+
+.demo {
+    width: 500px;
+}
+
+.onigiri {
+    width: 175px;
+}
+
+.yakiniku {
+    width: 250px;
+}
+
+.sushi {
+    width: 150px;
+}
+
+.ramen {
+    width: 150px;
+}
+
+.tempura {
+    width: 175px;
+}

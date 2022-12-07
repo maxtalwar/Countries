@@ -1,4 +1,9 @@
 /* Page Body */
+body {
+    width: 100%;
+    overflow-x: hidden;
+}
+
 .body-content {
     font-family: Comfortaa;
 }

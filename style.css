@@ -1,0 +1,19 @@
+body {
+    background-image: url("assets/home/fuji.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: all 0.5s ease-in-out;
+}
+.container {
+    min-height: 90vh;
+    position: relative;
+}
+
+.globe {
+    border: 1px solid black;
+    background-color: #064273;
+    opacity: 0.9;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+}

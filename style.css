@@ -1,5 +1,5 @@
 body {
-    background-image: url("fuji.jpeg");
+    background-image: url("assets/home/fuji.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     transition: all 0.5s ease-in-out;

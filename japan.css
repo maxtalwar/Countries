@@ -2,6 +2,7 @@ body {
     background-color: #e3fce4;
 }
 
+/* Text Section*/
 .text-1 {
     position: absolute;
     background-color: #d2b48c;
@@ -125,6 +126,7 @@ body {
     right: 150px;
 }
 
+/* Image Section*/
 .img-1 {
     position: absolute;
     top: 1100px;
@@ -167,6 +169,7 @@ body {
     text-align: center;
 }
 
+/* Header Section*/
 .head-1 {
     color: #A020F0;
 }
@@ -203,6 +206,7 @@ body {
     color: 	#ff869a;
 }
 
+/* Image Sizing Section*/
 .demo {
     width: 500px;
 }

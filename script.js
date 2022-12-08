@@ -1,5 +1,5 @@
 var backgroundNumber = 0;
-var backgrounds = ["url(fuji.jpeg)", "url(eiffel-tower.jpeg)", "url(oslo.jpeg)", "url(seoul.webp)", "url(singapore.jpeg)", "url(tokyo.webp)"];
+var backgrounds = ["url(assets/home/fuji.jpeg)", "url(assets/home/eiffel-tower.jpeg)", "url(assets/home/oslo.jpeg)", "url(assets/home/seoul.webp)", "url(assets/home/singapore.jpeg)", "url(assets/home/tokyo.webp)"];
 
 function backgroundSwitcher()
 {
